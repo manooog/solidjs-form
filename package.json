@@ -24,7 +24,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "一个基于 SolidJS 的高级表单组件库，提供了灵活的表单验证和数据处理能力。",
   "devDependencies": {
     "solid-js": "~1.9.5",
