@@ -1,0 +1,195 @@
+{
+  "name": "@manooog/solidjs-form",
+  "entries": [
+    {
+      "version": "2.0.0",
+      "tag": "@manooog/solidjs-form_v2.0.0",
+      "date": "Sun, 10 Aug 2025 02:52:20 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "1. support sourcemap;2. clean code;3. better types definition"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.2.0",
+      "tag": "@manooog/solidjs-form_v1.2.0",
+      "date": "Fri, 08 Aug 2025 04:36:39 GMT",
+      "comments": {
+        "none": [
+          {
+            "comment": "test script"
+          }
+        ],
+        "minor": [
+          {
+            "comment": "Intro new formlist"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.1.1",
+      "tag": "@manooog/solidjs-form_v1.1.1",
+      "date": "Tue, 08 Jul 2025 07:01:42 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Add new rule.type date!"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.1.0",
+      "tag": "@manooog/solidjs-form_v1.1.0",
+      "date": "Fri, 27 Jun 2025 11:36:57 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": " adding noValidate is to disable browser's native form validation and ensure the custom BetterForm validation system has complete control over the validation process.\\n support validation of numberInputStep type"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.3",
+      "tag": "@manooog/solidjs-form_v1.0.3",
+      "date": "Thu, 26 Jun 2025 08:04:01 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Updates types"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.2",
+      "tag": "@manooog/solidjs-form_v1.0.2",
+      "date": "Sun, 22 Jun 2025 09:45:51 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "make formFieldName optional"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.1",
+      "tag": "@manooog/solidjs-form_v1.0.1",
+      "date": "Mon, 16 Jun 2025 10:44:22 GMT",
+      "comments": {
+        "none": [
+          {
+            "comment": "add FormFieldError Component"
+          }
+        ],
+        "patch": [
+          {
+            "comment": "publish FormFieldError Component"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.0.0",
+      "tag": "@manooog/solidjs-form_v1.0.0",
+      "date": "Thu, 05 Jun 2025 04:28:45 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "new build config"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.8",
+      "tag": "@manooog/solidjs-form_v0.0.8",
+      "date": "Fri, 30 May 2025 11:59:55 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fix: Fix scrolling error when multiple forms are used"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.7",
+      "tag": "@manooog/solidjs-form_v0.0.7",
+      "date": "Tue, 27 May 2025 11:27:51 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "change label type to JSX.Element"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.6",
+      "tag": "@manooog/solidjs-form_v0.0.6",
+      "date": "Tue, 27 May 2025 09:39:46 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add clearValidate method"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.5",
+      "tag": "@manooog/solidjs-form_v0.0.5",
+      "date": "Fri, 25 Apr 2025 11:59:24 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add commonjs support"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.4",
+      "tag": "@manooog/solidjs-form_v0.0.4",
+      "date": "Fri, 25 Apr 2025 10:00:15 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Synchronize dateOfBirth rule, fix FormItem onInput for empty objects."
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.3",
+      "tag": "@manooog/solidjs-form_v0.0.3",
+      "date": "Sun, 23 Mar 2025 03:18:19 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "support custom inputlabel"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.2",
+      "tag": "@manooog/solidjs-form_v0.0.2",
+      "date": "Sat, 22 Mar 2025 13:52:50 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "form package"
+          }
+        ]
+      }
+    }
+  ]
+}
